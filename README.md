@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[简体中文](./README.md) | [English](./README_EN.md)
+[简体中文](https://gitee.com/keke010529/7260/edit/master/README.md) | [English](https://gitee.com/keke010529/7260/edit/master/README_EN.md)
 
 📚 最全面的 **GB-T 7260** 国家标准资源合集 | 持续更新 | 开放共享 | 专业可靠
 
