@@ -8,6 +8,8 @@
 
 若更新不及时，请及时在Issues中告知
 
+
+蓝奏云下载：https://wwwr.lanzoul.com/b014wqytqj 密码:h2te
 </div>
 
 ---
